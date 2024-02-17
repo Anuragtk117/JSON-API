@@ -4,7 +4,8 @@
         "name" : "Stylish Fashionable women jeans",
         "price" : [779,1500,48],
         "size" : [0,26,28,30,32,34,36,0],
-        "rating": [3.9,3167,754]
+        "rating": 3.9,
+        "review" :754
 
     },
 
@@ -13,7 +14,9 @@
         "name":"Trensy Fashionista Women jeans",
         "price" : [566,3800,80],
         "size":[0,26,28,30,32,34,0,0],
-        "ratings" :[4.1,1260,302]
+        "ratings" :4.1,
+        "review" :302
+
     },
 
     {
@@ -21,35 +24,41 @@
         "name" : "Urbane Sensational Women Jeans",
         "price" :[252,4322,91],
         "size":[24,26,28,30,0,0,0,0],
-        "ratings" :[3.7,7742,1728]
+        "ratings" :3.7,
+        "review" :1728
+
     },
     {
         "image" : "https://images.meesho.com/images/products/282939719/wqthn_400.webp",
         "name" : "Classic Fashionista Women Jeans",
         "price" :[259,9998,92],
         "size":[24,26,28,30,0,0,0,0],
-        "ratings" :[3.6,1181,249]
+        "ratings" :3.6,
+        "review" :249
     },
     {
         "image" : "https://images.meesho.com/images/products/147990071/p4ge3_400.webp",
         "name" : "Trendy Graceful Women Jeans",
         "price" :[818,1500,40],
         "size":[0,0,28,30,32,34,36,0],
-        "ratings" :[3.9,4121,689]
+        "ratings" :3.9,
+        "review" :689
     },
     {
         "image" : "https://images.meesho.com/images/products/341487295/sqcdj_400.webp",
         "name" : "Urbane Ravishing Women Jeans",
         "price" :[299,359,11],
         "size":[24,26,28,30,32,0,36,0],
-        "ratings" :[4.0,1351,233]
+        "ratings" :4.0,
+        "review" :233
     },
     {
         "image" : "https://images.meesho.com/images/products/386733170/dtm45_400.webp",
         "name" : "Fancy LatestWomen Jeans",
         "price" :[902,1199,10],
         "size":[0,0,28,32,34,36,38],
-        "ratings" :[5.0,21,20]
+        "ratings" :5.0,
+        "review" :20
     },
     
     
@@ -58,20 +67,23 @@
         "name" : "Trendy Designer Women Jeans",
         "price" :[877,1999,41],
         "size":[0,0,28,30,32,0,0,0],
-        "ratings" :[1,1,1]
+        "ratings" :1,
+        "review" :1
     },
     {
         "image" : "https://images.meesho.com/images/products/314006695/yhgcc_400.webp",
         "name" : "Trendy fabulous Women Jeans",
         "price" :[567,1699,35],
         "size":[24,26,28,30,32,34,36,0],
-        "ratings" :[4.1,6996,2286]
+        "ratings" :4.1,
+        "review" :2286
     },
     {
         "image" : "https://images.meesho.com/images/products/386750397/hu6iy_512.webp",
         "name" : "Classic Fabulous Women Jeans",
         "price" :[1004,1599,18],
         "size":[0,0,28,30,32,34,36,38],
-        "ratings" :[5.0,11,11]
+        "ratings" :5.0,
+        "review" :11
     }
 ]
